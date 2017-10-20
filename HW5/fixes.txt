@@ -1,0 +1,13 @@
+Need to fix memory leaks and
+BUCKETSIZE: 75 135 154 181
+NULL: 67
+SEEK_CUR: 146 160
+SEEK_SET: 135 154 181 198
+address: 192
+detect: 205
+filename: 70
+insertflag: 103
+key: 204 210
+num 193 295
+strcmp: 104
+temp: 162
